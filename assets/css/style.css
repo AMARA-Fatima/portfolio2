@@ -1,0 +1,9 @@
+body {
+    background-image: url('../img/image.jpg');
+    color: aliceblue;
+}
+#carouselExampleControls{
+    margin-top: 50px;
+    margin-left: 170px;
+
+}
